@@ -1,0 +1,7 @@
+In[606]:= LinearModel@TransformParametersThird@SecondDataSet
+
+Out[606]= {{0.624245}, {0.174192}, {-0.0101122}, {13.0472}}
+
+In[605]:= LinearModel[TransformParametersThird@FirstDataSet]
+
+Out[605]= {{-0.227084}, {-0.206245}, {0.0105927}, {12.0343}}

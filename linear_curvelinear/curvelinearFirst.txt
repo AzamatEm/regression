@@ -1,0 +1,7 @@
+In[582]:= LinearModel@TransformParametersSecond@SecondDataSet
+
+Out[582]= {{-0.197587}, {-4.8701}, {25.7566}}
+
+In[583]:= LinearModel[TransformParametersSecond@FirstDataSet]
+
+Out[583]= {{0.609916}, {9.63831}, {-1.5795}}
